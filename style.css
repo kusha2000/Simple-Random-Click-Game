@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#shape{
+    width:100px;
+    height:100px;
+    background-color: yellow;
+    position:relative;
+    display:none;
+}
+.topic{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+}
+.topic .box{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    width: 400px;
+
+}
+.topic .heading{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    text-align: center;
+    padding-right: 80px;
+    padding-left: 60px;
+
+}
+
+.topic .heading h3{
+    font-size: 4rem;
+    color:white;
+    text-transform: uppercase;
+}
+#time{
+    color: red;
+}
