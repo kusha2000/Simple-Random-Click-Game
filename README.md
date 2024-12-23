@@ -20,8 +20,11 @@ Features:
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-
+![Demo](https://github.com/user-attachments/assets/1f754f00-326b-4b71-9786-9e5254f88569)
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
 
+![1](https://github.com/user-attachments/assets/9d592cad-37bf-4624-992b-4fbf54f18583)
+
+![2](https://github.com/user-attachments/assets/717205a4-5bde-4f0e-9cb2-c1f0c80c5f72)
